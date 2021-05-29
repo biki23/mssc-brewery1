@@ -1,0 +1,5 @@
+package person.biki.springmicro.msscbrewery.web.model.v2;
+
+public enum BeerStyleEnum {
+    LAGER, PILSNER, ALE, STOUT, GOSE, IPA
+}
